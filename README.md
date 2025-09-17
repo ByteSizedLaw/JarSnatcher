@@ -32,10 +32,8 @@ java JarDecompiler /path/to/input.jar /path/to/output/directory
 ```
 
 ## ❤️ Who This Is For
-Developers who lost their source code
-Curious learners exploring how Java bytecode works
-Anyone who needs to reverse-engineer a .jar for *legitimate* reasons
-This tool is shared in the spirit of collaboration and recovery—not exploitation. Please use it responsibly.
+Developers who lost their source code, curious learners exploring how Java bytecode works, or anyone who needs to reverse-engineer a .jar for *legitimate* reasons.
+This tool is shared in the spirit of collaboration and recovery—not exploitation. Please use it *responsibly*.
 
 ## ⚖️ Legal Disclaimer
 This tool is intended solely for educational and ethical purposes.
