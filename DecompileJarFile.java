@@ -7,10 +7,10 @@ import java.util.zip.*;
  * @author Stephen
  * @Github: https://github.com/ByteSizedLaw/
  */
-public class UnpackJar {
+public class JarDecompiler {
     public static void main(String[] args) throws IOException {
         if (args.length < 2) {
-            System.out.println("Usage: java UnpackJar <jar-file> <output-dir>");
+            System.out.println("Usage: java JarDecompiler <jar-file> <output-dir>");
             return;
         }
         File destDir = new File(args[1]);
